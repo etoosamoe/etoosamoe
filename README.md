@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi! 👋
+---
+[![Twitter Follow](https://badgen.net/twitter/follow/etosamoe3?icon=twitter)]
+[![Telegram](https://badgen.net/badge/icon/%40etogeek?icon=telegram&label=TG)]
 
-<!--
-**etoosamoe/etoosamoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a DevOps engineer / Systems engineer with 3+ year of production experience. Former network engineer.
 
-Here are some ideas to get you started:
+---
+### 💻 Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Configuration management**: Ansible
+
+**Monitoring and logs**: Prometheus / Victoria Metrics, Grafana, Zabbix, ELK stack
+
+**Containers and orchestration**: Docker, Kubernetes, Helm, ArgoCD
+
+**CI/CD**: GitlabCI, Jenkins, GitHub Actions
+
+**Service discovery**: Consul
