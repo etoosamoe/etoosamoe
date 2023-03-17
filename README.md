@@ -8,7 +8,7 @@
     <a href="https://t.me/etogeek"><img src="https://badgen.net/badge/icon/%40etogeek?icon=telegram&label=TG" /></a>
 </p>
 
-I am a DevOps engineer / Systems engineer with 3+ year of production experience. Former network engineer.
+I am a DevOps engineer / Systems engineer with 6+ years of production experience. Former network engineer.
 
 ---
 ### 💻 Stack
