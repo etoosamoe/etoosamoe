@@ -10,15 +10,19 @@
 
 I am a DevOps engineer / Systems engineer with 6+ years of production experience. Former network engineer.
 
+Write in blog at https://etogeek.ru and Telegram-channel https://t.me/etogeek
+
 ---
 ### 💻 Stack
 
 **Configuration management**: Ansible
 
-**Monitoring and logs**: Prometheus / Victoria Metrics, Grafana, Zabbix, ELK stack
+**Monitoring and logs**: Prometheus / Victoria Metrics, Grafana, Zabbix, ELK stack, Loki
 
-**Containers and orchestration**: Docker, Kubernetes, Helm, ArgoCD
+**Containers and orchestration**: Docker, Swarm, Kubernetes, Helm, ArgoCD
 
 **CI/CD**: GitlabCI, Jenkins, GitHub Actions
 
 **Service discovery**: Consul
+
+**Data**: Hadoop/HBase, Solr
