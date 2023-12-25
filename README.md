@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hey! 👋
 ---
 
 <p align="left">
@@ -8,16 +8,24 @@
     <a href="https://t.me/etogeek"><img src="https://badgen.net/badge/icon/%40etogeek?icon=telegram&label=TG" /></a>
 </p>
 
-I am a DevOps engineer / Systems engineer with 6+ years of production experience. Former network engineer.
+## 🙋‍♂️ About me
 
-Write in blog at https://etogeek.ru and Telegram-channel https://t.me/etogeek
+😉 DevOps engineer / Systems engineer with a production experience since 2020. Former network engineer.  
+✍️ Writing in blog: <a href="https://etogeek.ru">etogeek.ru</a> and <a href="https://t.me/etogeek">t.me/etogeek</a>.  
+🚀 Productivity ambassador  
+🎓 Lifelong learner  
 
----
-### 💻 Stack
+## 🧑🏻‍💻 Currently working on
 
-**Configuration management**: Ansible
+🛠️ Lead DevOps engineer at <a href="https://amazinghiring.com">AmazingHiring</a>.
 
-**Monitoring and logs**: Prometheus / Victoria Metrics, Grafana, Zabbix, ELK stack, Loki
+## 💻 Stack
+
+**Configuration management, IaC**: Ansible, Terraform
+
+**Clouds**: YandexCloud, AWS
+
+**Monitoring and logs**: Victoria Metrics, Grafana, Zabbix, ELK stack, Loki
 
 **Containers and orchestration**: Docker, Swarm, Kubernetes, Helm, ArgoCD
 
