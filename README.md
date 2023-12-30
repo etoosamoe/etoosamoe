@@ -17,7 +17,7 @@
 
 ## 🧑🏻‍💻 Currently working on
 
-🛠️ Lead DevOps engineer at <a href="https://amazinghiring.com">AmazingHiring</a>.
+🛠️ Senior DevOps engineer at <a href="https://amazinghiring.com">AmazingHiring</a>.
 
 ## 💻 Stack
 
