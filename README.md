@@ -11,9 +11,10 @@
 ## 🙋‍♂️ About me
 
 😉 DevOps engineer / Systems engineer with a production experience since 2020. Former network engineer.  
-✍️ Writing in blog: <a href="https://etogeek.ru">etogeek.ru</a> and <a href="https://t.me/etogeek">t.me/etogeek</a>.  
+✍️  Writing in blog: <a href="https://etogeek.ru">etogeek.ru</a> and <a href="https://t.me/etogeek">t.me/etogeek</a>.  
+🎥 Filming ed-tech and productivity videos to my <a href="https://www.youtube.com/@etogeek">Youtube channel</a>.
 🚀 Productivity ambassador  
-🎓 Lifelong learner  
+🎓 Lifelong learner
 
 ## 🧑🏻‍💻 Currently working on
 
@@ -21,11 +22,11 @@
 
 ## 💻 Stack
 
-**Configuration management, IaC**: Ansible, Terraform
+**Configuration management, IaC**: Ansible, Puppet
 
 **Clouds**: YandexCloud, AWS
 
-**Monitoring and logs**: Victoria Metrics, Grafana, Zabbix, ELK stack, Loki
+**Monitoring and logs**: Victoria Metrics, Grafana, Zabbix, Loki, ELK stack
 
 **Containers and orchestration**: Docker, Swarm, Kubernetes, Helm, ArgoCD
 
