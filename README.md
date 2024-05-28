@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About me
 
-😉 DevOps engineer / Systems engineer with a production experience since 2020. Former network engineer.  
+😉 DevOps engineer / Systems engineer with a production experience since 2020. Former network engineer. In IT since 2016.  
 ✍️  Writing in blog: etogeek.dev(<a href="https://etogeek.dev">RU</a>, <a href="https://etogeek.dev/en/">EN</a>) and <a href="https://t.me/etogeek">t.me/etogeek</a>(ru).  
 🎥 Filming ed-tech and productivity videos to my <a href="https://www.youtube.com/@etogeek">Youtube channel</a>(RU).  
 🚀 Productivity ambassador  
